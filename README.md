@@ -51,5 +51,7 @@ The TOP 3 features for price prediction appeared to be:
 
 ## Licensing, Authors, and Acknowledgements
 
-Licensing for the data and other descriptive information at the [Kaggle link available here]. 
-[Kaggle link available here]:https://www.kaggle.com/airbnb/boston 
+Licensing for the data and other descriptive information at the [Kaggle link available here].
+
+[Kaggle link available here]: https://www.kaggle.com/airbnb/boston
+
