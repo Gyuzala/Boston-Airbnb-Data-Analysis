@@ -31,7 +31,7 @@ There is one Jupyter Notebook file that contains all the analytics and codes. Ma
 
 You can find brief results below, for more detailed answers please refer to my [blog post here]: 
 
-[blog post here]: https://medium.com/@gyuzala/this-will-make-you-airbnb-in-boston-efficiently-d9ec76e6dfb0 
+[blog post here]: https://gyuzala.medium.com/this-will-make-you-airbnb-in-boston-efficiently-d9ec76e6dfb0 
 
 1. What is the most popular listing by room type in Boston?
 
